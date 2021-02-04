@@ -1,6 +1,4 @@
- Bingo
-
-**Bingo**
+# **Bingo**
 
 Submitted by: **Pratham Rana**
 - This program was coded in Java 
