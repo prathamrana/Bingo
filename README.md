@@ -9,8 +9,6 @@ Submitted by: **Pratham Rana**
 
 ## How to Win
 
-The following **required** functionality is completed:
-
 * [x] All five spots in a column are marked
 * [x] All five spots in a row are marked
 * [x] All the spots in either of the two diagonals are marked
